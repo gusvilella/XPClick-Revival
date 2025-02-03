@@ -43,8 +43,10 @@ O script precisa do **Tampermonkey**, uma extensão para gerenciar userscripts. 
 ### **Instalando o script**
 1. **Clique aqui para abrir o script** → [XPClick Revival - Script](https://github.com/gusvilella/XPClick-Revival/raw/main/xp-click.user.js)  
 2. O Tampermonkey deve abrir perguntando se você quer instalar.  
-3. **Clique em "Instalar"**.  
-4. **Pronto!** Agora os cliques na web vão tocar o som clássico do XP.  
+3. **Clique em "Instalar"**.
+4. **Ative o modo desenvolver nas extensões de seu navegador.**
+5. **Permita o acesso aos resultados da página de pesquisa nas opções do Tampermonkey em seu navegador.**
+6. **Pronto!** Agora os cliques na web vão tocar o som clássico do XP.  
 
 ---
 
